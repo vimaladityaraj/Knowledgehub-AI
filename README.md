@@ -74,7 +74,7 @@ KnowledgeHub_AI/
 ### 2. Clone & set up
 
 ```bash
-git clone <repo>
+git clone https://github.com/vimaladityaraj/Knowledgehub-AI.git
 cd KnowledgeHub_AI
 
 python -m venv .venv
